@@ -26,7 +26,7 @@
 
 ###
 
-<p align="left">I'm Teerakan Otklan from Thailand<br><br>- 📚 I'm currently learning Network<br>- ⚡ In my free time, I search for knowledge about interesting things.</p>
+<p align="left">I'm Teerakan from Thailand<br><br>- 📚 I'm currently learning Network<br>- ⚡ In my free time, I search for knowledge about interesting things.</p>
 
 ###
 
